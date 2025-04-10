@@ -3,7 +3,7 @@
 //  CalculatorApp-UIKit-Swift
 //
 //  Created by Mehmet Tuna Arıkaya on 18.03.2025.
-//w
+//wc
 
 import UIKit
 
