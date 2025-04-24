@@ -10,7 +10,7 @@ A simple calculator app built with **UIKit** to improve my UIKit knowledge and p
 - ✅ **Auto Layout with NSLayoutConstraint**
 - ✅ **MVVM architecture**
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Usedd
 - **Swift** - Primary language
 - **UIKit** - Programmatic UI with `NSLayoutConstraint`
 - **MVVM** - Clean architecture for better separation of concerns
